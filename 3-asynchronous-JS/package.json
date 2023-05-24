@@ -1,0 +1,14 @@
+{
+  "name": "Asynchronous JS",
+  "version": "1.0.0",
+  "description": "A test for asynchronous js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Ryan Su",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^8.0.9"
+  }
+}
